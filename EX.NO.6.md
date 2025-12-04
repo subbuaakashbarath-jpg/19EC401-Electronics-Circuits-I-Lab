@@ -23,14 +23,14 @@
 
 <img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
 
-## Tabulation
+
 
 ## Graph
+<img width="715" height="358" alt="image" src="https://github.com/user-attachments/assets/a4ae5884-1ca5-4148-92ac-b43436fa7b89" />
+
 
 
 ## *Result*
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
 
-*VOLTAGE GAIN =*
 
-*BANDWIDTH =*

@@ -5,5 +5,11 @@
 
 
 **ATTACH TINKERCAD CIRCUIT DIAGRAM**
+
+<img width="887" height="529" alt="image" src="https://github.com/user-attachments/assets/2d0fad69-2b6a-4075-b5de-899b49cfe546" />
+<img width="648" height="412" alt="image" src="https://github.com/user-attachments/assets/a2b9c8f2-8cc9-4e30-a9b9-46ef19fff122" />
+
 **ATTACH WAVE FORM**
+
+
 <img width="571" height="151" alt="image" src="https://github.com/user-attachments/assets/dc7fef76-841f-448a-a790-bb197f17140d" />
